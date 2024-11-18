@@ -5,5 +5,5 @@ I am a passionate data analyst who is versed in SQL, Excel, PowerBi, Tableau and
  -	🔭 I’m currently working on **Portfolio Projects**
  -	🌱 I’m currently learning **Python**
  -	👯 I’m looking to collaborate on **Data analysis Projects**
- -	💬 Ask me about **SQL,Excel,PowerBI and Python**
+ -	💬 Ask me about **SQL, Excel, PowerBI and Python**
  -	📫 How to reach me welthesaid@gmail.com
