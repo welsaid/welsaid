@@ -1,6 +1,6 @@
 # Hi 👋🏾, I'm Welsaid
 
-I am a passionate data analyst who is versed in SQL, Excel, PowerBi, Tableau and Python. Everyday, I get to help businesses make data-driven decisions by extracting meaningful insights from complex datasets.
+A passionate data analyst who is versed in SQL, Excel, PowerBi, Tableau and Python. Everyday, I get to help businesses make data-driven decisions by extracting meaningful insights from complex datasets.
 
  -	🔭 I’m currently working on **Portfolio Projects**
  -	🌱 I’m currently learning **Python**
