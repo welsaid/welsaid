@@ -7,4 +7,3 @@ I am a passionate data analyst from Nigeria who is versed in SQL, Excel, PowerBi
  -	👯 I’m looking to collaborate on **Data analysis Projects**
  -	💬 Ask me about **SQL,Excel,PowerBI and Python**
  -	📫 How to reach me welthesaid@gmail.com
- -	⚡ Fun fact I'm funny.
